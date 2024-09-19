@@ -1,4 +1,4 @@
-import Navbar from "@/app/navbar/page";
+import Navbar from "../navbar/page";
 
 const Skills = () => {
   const tools = [

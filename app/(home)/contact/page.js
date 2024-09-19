@@ -3,7 +3,7 @@
 
 import { useState } from "react";
 import emailjs from "emailjs-com";
-import Navbar from "@/app/navbar/page";
+import Navbar from "../navbar/page";
 
 const Contact = () => {
   const [formData, setFormData] = useState({
